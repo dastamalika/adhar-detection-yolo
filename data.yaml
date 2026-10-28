@@ -1,0 +1,6 @@
+train: /content/drive/MyDrive/Mini Project/aaadhaaar/images/train
+val: /content/drive/MyDrive/Mini Project/aaadhaaar/images/val
+test: /content/drive/MyDrive/Mini Project/aaadhaaar/images/test
+
+nc: 4
+names: ['Gender', 'UID', 'Name', 'DOB']
